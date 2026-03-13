@@ -1,4 +1,4 @@
-# Hotel-Booking-Analysis
+# Hotel-Booking-Analysis-Python-EDA
 Exploratory Data Analysis (EDA) on Hotel Bookings Dataset
 
 The Hotel Booking dataset consists of data related to Customer Bookings with respect to their preferences, Country of origin, Booked or canceled, Reservation status, Type of Hotel, Mode of booking, Car Parking, Date-Month-Year of Booking, Type of rooms, Accommodation types and so on.
